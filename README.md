@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-Engineering student focused on mechatronics system design, embedded software, and defense industry technologies. Passionate about sensor integration, autonomous/smart systems, and open-source Linux environments.
+Mechatronics Engineering student at Manisa Celal Bayar University, focused on system design, embedded software, and defense industry technologies. Passionate about sensor integration, autonomous/smart systems, and open-source Linux environments.
 
 - 🌐 **Interactive Portfolio & CV:** Explore my background, education, and detailed project showcases at [**nothingmantr.github.io/Taha-Can-Tunc**](https://nothingmantr.github.io/Taha-Can-Tunc/).
 - 🎯 **Core Focus:** Mechatronics System Architecture, Embedded Development, IoT Systems, Linux Desktop Utilities.
