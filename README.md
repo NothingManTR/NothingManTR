@@ -1,27 +1,27 @@
 <div align="center">
 
 # Taha Can Tunç
-### Mekatronik & Sistem Mühendisliği Adayı | Gömülü Sistemler & Linux Tutkunu
+### Mechatronics & Systems Engineering Enthusiast | Embedded Software & Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/)
-[![Kişisel CV & Portfolyo](https://img.shields.io/badge/Kişisel_CV_&_Portfolyo-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nothingmantr.github.io/Taha-Can-Tunc/)
-[![E-Posta](https://img.shields.io/badge/İletişim-tcttaha@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcttaha@gmail.com)
+[![Portfolio & CV](https://img.shields.io/badge/Portfolio_&_CV-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nothingmantr.github.io/Taha-Can-Tunc/)
+[![Contact](https://img.shields.io/badge/Contact-tcttaha@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcttaha@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-Mekatronik sistem tasarımı, gömülü yazılımlar ve savunma sanayii teknolojilerine odaklanan bir mühendis adayıyım. Sensör entegrasyonu, otonom/akıllı sistemler ve açık kaynak Linux ortamları üzerinde projeler geliştiriyorum.
+Engineering student focused on mechatronics system design, embedded software, and defense industry technologies. Passionate about sensor integration, autonomous/smart systems, and open-source Linux environments.
 
-- 🌐 **İnteraktif Özgeçmiş:** Eğitim, deneyim ve detaylı proje sunumlarım için [**nothingmantr.github.io/Taha-Can-Tunc**](https://nothingmantr.github.io/Taha-Can-Tunc/) adresini ziyaret edebilirsiniz.
-- 🎯 **Odak Alanlarım:** Mekatronik Sistem Tasarımı, Gömülü Sistemler, IoT Mimarileri, Linux Masaüstü Araçları.
-- 💬 **İletişim:** Projeler ve iş birlikleri için [LinkedIn](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/) veya [e-posta](mailto:tcttaha@gmail.com) üzerinden ulaşabilirsiniz.
+- 🌐 **Interactive Portfolio & CV:** Explore my background, education, and detailed project showcases at [**nothingmantr.github.io/Taha-Can-Tunc**](https://nothingmantr.github.io/Taha-Can-Tunc/).
+- 🎯 **Core Focus:** Mechatronics System Architecture, Embedded Development, IoT Systems, Linux Desktop Utilities.
+- 💬 **Get in Touch:** Open for collaborations and engineering projects via [LinkedIn](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/) or [Email](mailto:tcttaha@gmail.com).
 
 ---
 
-### 🛠️ Yetenekler & Araçlar
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
@@ -31,33 +31,33 @@ Mekatronik sistem tasarımı, gömülü yazılımlar ve savunma sanayii teknoloj
 
 <br/><br/>
 
-| Kategori | Teknolojiler & Beceriler |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Programlama & Yazılım** | C++, C, Python, MATLAB, Bash, Embarcadero C++ |
-| **Gömülü Sistemler & Donanım** | Arduino, Deneyap Kart, Sensör Entegrasyonu, IoT, ROS |
-| **3D Modelleme & Tasarım** | SolidWorks, Fusion 360, Tinkercad, Blender |
-| **Sistem & Araçlar** | Linux (Arch / Omarchy), Git, GitHub, VS Code |
+| **Programming & Software** | C++, C, Python, MATLAB, Bash, Embarcadero C++ |
+| **Embedded & Hardware** | Arduino, Deneyap Board, Sensor Integration, IoT, ROS |
+| **3D Modeling & CAD** | SolidWorks, Fusion 360, Tinkercad, Blender |
+| **System & Environment** | Linux (Arch / Omarchy), Git, GitHub, VS Code |
 
 </div>
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### 🚀 Featured Projects
 
 <div align="center">
 
-| Proje | Açıklama | Bağlantılar |
+| Project | Description | Links |
 | :--- | :--- | :---: |
-| 🌐 **Kişisel CV & Portfolyo** | İnteraktif, modern ve yapay zekâ destekli kişisel portfolyo ve CV web sitesi. | [Canlı Site](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
-| 🌱 **Plantelligence** | Deneyap Kart ve IoT sensörleri ile ortam koşullarını optimize eden akıllı sera/bitki yetiştirme platformu. | [Canlı Site](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence12) |
-| 🐧 **omadock & island** | Omarchy Linux ekosistemi için tasarlanmış minimalist uygulama doku ve hızlı erişim menü araçları. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
-| 💬 **AnonChat** | Gerçek zamanlı, güvenli ve anonim sohbet deneyimi sunan mesajlaşma uygulaması. | [Repo](https://github.com/NothingManTR/AnonChat) |
+| 🌐 **Interactive CV & Portfolio** | Modern, responsive personal portfolio and resume web application. | [Live Demo](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
+| 🌱 **Plantelligence** | Smart greenhouse and automated plant care platform using IoT sensors & Deneyap Board. | [Live Demo](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence12) |
+| 🐧 **omadock & island** | Minimalist desktop dock and quick launcher menus built for the Omarchy Linux desktop ecosystem. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
+| 💬 **AnonChat** | Real-time, lightweight anonymous chat application. | [Repo](https://github.com/NothingManTR/AnonChat) |
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
@@ -74,5 +74,5 @@ Mekatronik sistem tasarımı, gömülü yazılımlar ve savunma sanayii teknoloj
 ---
 
 <div align="center">
-  <sub>Taha Can Tunç • Savunma Sanayii & Mekatronik Sistemler</sub>
+  <sub>Taha Can Tunç • Mechatronics Systems & Embedded Software</sub>
 </div>
