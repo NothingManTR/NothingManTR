@@ -48,7 +48,7 @@ Mechatronics Engineering student at Manisa Celal Bayar University, focused on sy
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| 🌐 **Interactive CV & Portfolio** | Modern, responsive personal portfolio and resume web application. | [Live Demo](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
+| 🌐 **Interactive CV & Portfolio** | Modern Apple HIG inspired personal portfolio and resume web application. | [Live Demo](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
 | 🌱 **Plantelligence** | Smart greenhouse and automated plant care platform using IoT sensors & Deneyap Board. | [Live Demo](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence12) |
 | 🐧 **omadock & island** | Minimalist desktop dock and quick launcher menus built for the Omarchy Linux desktop ecosystem. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
 | 💬 **AnonChat** | Real-time, lightweight anonymous chat application. | [Repo](https://github.com/NothingManTR/AnonChat) |
@@ -57,7 +57,15 @@ Mechatronics Engineering student at Manisa Celal Bayar University, focused on sy
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🛡️ Strategic Vision: A.T.İ.K
+
+> **A.T.İ.K** (*Askeri Teknoloji ve İnovasyon Kuruluşu / Military Technology & Innovation Enterprise*)
+> 
+> A specialized defense and autonomous mechatronics engineering initiative founded with the mission to engineer next-generation intelligent electronic countermeasures, multi-sensor fusion architectures, and resilient autonomous systems for defense applications.
+
+---
+
+### 📊 GitHub Activity & Contributions
 
 <div align="center">
 
@@ -68,6 +76,15 @@ Mechatronics Engineering student at Manisa Celal Bayar University, focused on sy
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NothingManTR&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NothingManTR/NothingManTR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NothingManTR/NothingManTR/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/NothingManTR/NothingManTR/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
