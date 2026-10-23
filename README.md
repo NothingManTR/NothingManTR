@@ -1,10 +1,10 @@
 <div align="center">
 
 # Taha Can Tunç
-### Mechatronics & Systems Engineering Enthusiast | Embedded Software & Linux
+### Embedded Systems • IoT • Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/)
-[![Portfolio & CV](https://img.shields.io/badge/Portfolio_&_CV-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nothingmantr.github.io/Taha-Can-Tunc/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nothingmantr.github.io/Taha-Can-Tunc/)
 [![Contact](https://img.shields.io/badge/Contact-tcttaha@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcttaha@gmail.com)
 
 </div>
@@ -13,15 +13,14 @@
 
 ### 👨‍💻 About Me
 
-Mechatronics Engineering student at Manisa Celal Bayar University, focused on system design, embedded software, and defense industry technologies. Passionate about sensor integration, autonomous/smart systems, and open-source Linux environments.
+Student at Manisa Celal Bayar University studying Mechatronics. Interested in embedded development (C/C++, Python), microcontrollers, sensor integration, and open-source Linux desktop utilities.
 
-- 🌐 **Interactive Portfolio & CV:** Explore my background, education, and detailed project showcases at [**nothingmantr.github.io/Taha-Can-Tunc**](https://nothingmantr.github.io/Taha-Can-Tunc/).
-- 🎯 **Core Focus:** Mechatronics System Architecture, Embedded Development, IoT Systems, Linux Desktop Utilities.
-- 💬 **Get in Touch:** Open for collaborations and engineering projects via [LinkedIn](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/) or [Email](mailto:tcttaha@gmail.com).
+- 🌐 **Portfolio & Showcases:** [**nothingmantr.github.io/Taha-Can-Tunc**](https://nothingmantr.github.io/Taha-Can-Tunc/)
+- 💬 **Connect:** [LinkedIn](https://www.linkedin.com/in/taha-can-tun%C3%A7-454313275/) • [Email](mailto:tcttaha@gmail.com)
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -31,37 +30,29 @@ Mechatronics Engineering student at Manisa Celal Bayar University, focused on sy
 
 <br/><br/>
 
-| Category | Technologies & Tools |
+| Area | Technologies |
 | :--- | :--- |
-| **Programming & Software** | C++, C, Python, MATLAB, Bash, Embarcadero C++ |
-| **Embedded & Hardware** | Arduino, Deneyap Board, Sensor Integration, IoT, ROS |
-| **3D Modeling & CAD** | SolidWorks, Fusion 360, Tinkercad, Blender |
-| **System & Environment** | Linux (Arch / Omarchy), Git, GitHub, VS Code |
+| **Languages** | C++, C, Python, MATLAB, Bash |
+| **Hardware & Embedded** | Arduino, Deneyap Board, Sensor Integration |
+| **CAD & 3D Modeling** | SolidWorks, Fusion 360, Tinkercad, Blender |
+| **Environment & Tools** | Linux (Arch / Omarchy), Git, GitHub, VS Code |
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 <div align="center">
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| 🌐 **Interactive CV & Portfolio** | Modern Apple HIG inspired personal portfolio and resume web application. | [Live Demo](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
 | 🌱 **Plantelligence** | Smart greenhouse and automated plant care platform using IoT sensors & Deneyap Board. | [Live Demo](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence12) |
-| 🐧 **omadock & island** | Minimalist desktop dock and quick launcher menus built for the Omarchy Linux desktop ecosystem. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
-| 💬 **AnonChat** | Real-time, lightweight anonymous chat application. | [Repo](https://github.com/NothingManTR/AnonChat) |
+| 🐧 **omadock & island** | Minimalist application dock and launcher menus built for Linux desktop. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
+| 💬 **AnonChat** | Real-time anonymous messaging application. | [Repo](https://github.com/NothingManTR/AnonChat) |
+| 🌐 **Personal Portfolio** | Apple HIG inspired personal website showcasing background and projects. | [Live Site](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
 
 </div>
-
----
-
-### 🛡️ Strategic Vision: A.T.İ.K
-
-> **A.T.İ.K** (*Askeri Teknoloji ve İnovasyon Kuruluşu / Military Technology & Innovation Enterprise*)
-> 
-> A specialized defense and autonomous mechatronics engineering initiative founded with the mission to engineer next-generation intelligent electronic countermeasures, multi-sensor fusion architectures, and resilient autonomous systems for defense applications.
 
 ---
 
@@ -91,5 +82,5 @@ Mechatronics Engineering student at Manisa Celal Bayar University, focused on sy
 ---
 
 <div align="center">
-  <sub>Taha Can Tunç • Mechatronics Systems & Embedded Software</sub>
+  <sub>Taha Can Tunç</sub>
 </div>
