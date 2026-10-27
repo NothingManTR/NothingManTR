@@ -47,7 +47,7 @@ Student at Manisa Celal Bayar University studying Mechatronics. Interested in em
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| 🌱 **Plantelligence** | Smart greenhouse and automated plant care platform using IoT sensors & Deneyap Board. | [Live Demo](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence12) |
+| 🌱 **Plantelligence** | Smart greenhouse and automated plant care platform using IoT sensors & Deneyap Board. | [Live Demo](https://nothingmantr.github.io/Plantelligence/) • [Repo](https://github.com/NothingManTR/Plantelligence) |
 | 🐧 **omadock & island** | Minimalist application dock and launcher menus built for Linux desktop. | [omadock](https://github.com/NothingManTR/omadock) • [island](https://github.com/NothingManTR/island) |
 | 💬 **AnonChat** | Real-time anonymous messaging application. | [Repo](https://github.com/NothingManTR/AnonChat) |
 | 🌐 **Personal Portfolio** | Apple HIG inspired personal website showcasing background and projects. | [Live Site](https://nothingmantr.github.io/Taha-Can-Tunc/) • [Repo](https://github.com/NothingManTR/Taha-Can-Tunc) |
